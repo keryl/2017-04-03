@@ -1,0 +1,4 @@
+- Define 2 functions add and remove that accept 2 arguments: a list and a number where add adds the number to the list and returns the list while remove removes it from the list and returns the list.
+- Write test cases that ensure the functions work and also that they only accept a list and a number.
+- Provide example code in the main program.
+- Document the code
